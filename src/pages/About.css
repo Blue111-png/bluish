@@ -1,0 +1,83 @@
+.about {
+  padding: 2rem 1rem;
+  background-color: #0e1a1f;
+  color: #f1f1f1;
+  font-family: 'Segoe UI', sans-serif;
+  padding-bottom: 6.8rem;
+}
+
+.about-container {
+  max-width: 900px;
+  margin: 0 auto;
+}
+
+.about h1 {
+  font-size: 2rem;
+  margin-bottom: 1.5rem;
+  color: #00bcd4;
+  text-align: center;
+}
+
+.about-section {
+  margin-bottom: 2rem;
+}
+
+.about-section h2 {
+  font-size: 1.3rem;
+  margin-bottom: 0.5rem;
+  color: #00bcd4;
+}
+
+.about-section p {
+  font-size: 1rem;
+  line-height: 1.6;
+}
+
+.about ul {
+  list-style-type: disc;
+  padding-left: 1.5rem;
+  margin-top: 0.5rem;
+}
+
+.about ul li {
+  margin-bottom: 0.5rem;
+  font-size: 1rem;
+}
+
+.intro,
+.closing {
+  font-size: 1.1rem;
+  margin-bottom: 2rem;
+  text-align: center;
+}
+
+/* 📱 Responsive Styles for ≤768px */
+@media (max-width: 768px) {
+  .about {
+    padding: 1.5rem 1rem;
+    padding-bottom: 4.5rem;
+  }
+
+  .about h1 {
+    font-size: 1.6rem;
+  }
+
+  .about-section h2 {
+    font-size: 1.15rem;
+  }
+
+  .about-section p,
+  .about ul li {
+    font-size: 0.95rem;
+  }
+
+  .intro,
+  .closing {
+    font-size: 1rem;
+    padding: 0 0.5rem;
+  }
+
+  .about ul {
+    padding-left: 1rem;
+  }
+}
