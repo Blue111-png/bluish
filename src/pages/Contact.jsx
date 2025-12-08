@@ -24,7 +24,7 @@ export default function Contact() {
     <section className="contact">
       <div className="contact-container">
         <h3 style={{ color: 'red', textAlign: 'center', fontWeight: 'bold' }}>
-  <strong>(WARNING): Do not attempt to contact us for now</strong>
+  <strong>(WARNING): Do not attempt to contact us for now.</strong>
 </h3>
         <h1>Contact Us</h1>
         <p className="contact-intro">
