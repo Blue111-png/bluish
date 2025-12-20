@@ -7,7 +7,7 @@ export default function About() {
       <div className="about-container">
         <h1>About Us</h1>
         <p className="intro">
-          Welcome to <strong>TrenchSupply</strong> — your trusted source for premium military-grade gear, tactical apparel, and survival essentials.
+          Welcome to <strong>Bluish</strong> — your trusted source for premium military-grade gear, tactical apparel, and survival essentials.
         </p>
 
         <div className="about-section">
@@ -35,14 +35,14 @@ export default function About() {
         </div>
 
         <div className="about-section">
-          <h2>📍 Based in [Your Location]</h2>
+          <h2>📍 Based in Cameroon</h2>
           <p>
             Proudly serving customers across the nation and beyond. Whether you're prepping for a mission or your next outdoor adventure, we're here to equip you.
           </p>
         </div>
 
         <p className="closing">
-          Thank you for choosing <strong>TrenchSupply</strong>. Gear up with confidence.
+          Thank you for choosing <strong>Bluish</strong>. Gear up with confidence.
         </p>
       </div>
     </section>

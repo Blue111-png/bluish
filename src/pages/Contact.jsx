@@ -71,13 +71,13 @@ export default function Contact() {
 
           <div className="contact-info">
             <h2>📍 Headquarters</h2>
-            <p>TrenchSupply HQ<br />Buea, Cameroon</p>
+            <p>Bluish HQ<br />Buea, Cameroon</p>
 
             <h2>📞 Call Us</h2>
             <p>+237 6XX XXX XXX</p>
 
             <h2>✉️ Email</h2>
-            <p>support@trenchsupply.com</p>
+            <p>support@Bluish.com</p>
           </div>
         </div>
       </div>
