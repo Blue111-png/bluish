@@ -51,7 +51,7 @@ const CheckoutForm = ({ cart, currentUser }) => {
       setAddress('');
       setPaymentMethod('Credit Card');
     } else {
-      setError('Failed to send email. Please try again.');
+      setError('Transaction disabled by admin');
     }
   };
 
